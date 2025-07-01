@@ -6,8 +6,6 @@
 
 ## Sou entusiasta em desenvolvimento Python e automação de processos. Este é meu portfólio com projetos e estudos.
 
----
-
 ## 🚀 Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
