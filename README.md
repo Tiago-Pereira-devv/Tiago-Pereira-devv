@@ -1,7 +1,7 @@
 # 👋 Oi oi, sou o Tiago Alves!
 
 <p align="center">
-  <img src="https://github.com/Tiago-Pereira-devv.png" width="150" alt="Tiago Alves" style="border-radius: 50%;">
+  <img src="https://github.com/Tiago-Pereira-devv.png" width="150" alt="Tiago Alves">
 </p>
 
 Sou entusiasta em desenvolvimento Python e automação de processos. Este é meu portfólio com projetos e estudos.
@@ -20,4 +20,20 @@ Sou entusiasta em desenvolvimento Python e automação de processos. Este é meu
 
 ## 📂 Projetos em Destaque
 
-- [**Script de Envio de Mensagens Automáticas**](https://github.com/Tiago-Pereira-devv/script_p_autom)
+- [**Script de Envio de Mensagens Automáticas**](https://github.com/Tiago-Pereira-devv/script_p_automatizacao)  
+  > Automatiza o envio de mensagens via WhatsApp usando Python.
+
+---
+
+## 📫 Contato
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tiago-pereira-151b58202" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:tiago_alvesyi@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
