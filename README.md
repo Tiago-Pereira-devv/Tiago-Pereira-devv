@@ -23,6 +23,10 @@
 
 ---
 
+## 📊 Minhas estatísticas no GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tiago-Pereira-devv&show_icons=true&theme=dark)
+
 ## 📫 Contato
 
 <a href="https://www.linkedin.com/in/tiago-pereira-151b58202" target="_blank">
@@ -34,9 +38,5 @@
 </a>
 
 ---
-
-## 📊 Minhas estatísticas no GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tiago-Pereira-devv&show_icons=true&theme=dark)
 
 
