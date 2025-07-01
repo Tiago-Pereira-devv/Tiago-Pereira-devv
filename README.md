@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Oi oi, sou o Tiago Alves!
 
-<!--
-**Tiago-Pereira-devv/Tiago-Pereira-devv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github.com/Tiago-Pereira-devv.png" width="150" alt="Tiago Alves" style="border-radius: 50%;">
+</p>
 
-Here are some ideas to get you started:
+Sou entusiasta em desenvolvimento Python e automação de processos. Este é meu portfólio com projetos e estudos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologias
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+---
+
+## 📂 Projetos em Destaque
+
+- [**Script de Envio de Mensagens Automáticas**](https://github.com/Tiago-Pereira-devv/script_p_autom)
