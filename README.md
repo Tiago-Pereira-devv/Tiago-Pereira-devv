@@ -4,7 +4,7 @@
   <img src="https://github.com/Tiago-Pereira-devv.png" width="150" alt="Tiago Alves">
 </p>
 
-Sou entusiasta em desenvolvimento Python e automação de processos. Este é meu portfólio com projetos e estudos.
+## Sou entusiasta em desenvolvimento Python e automação de processos. Este é meu portfólio com projetos e estudos.
 
 ---
 
@@ -32,4 +32,11 @@ Sou entusiasta em desenvolvimento Python e automação de processos. Este é meu
 <a href="mailto:tiago_alvesyi@hotmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
+
+---
+
+## 📊 Minhas estatísticas no GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tiago-Pereira-devv&show_icons=true&theme=dark)
+
 
