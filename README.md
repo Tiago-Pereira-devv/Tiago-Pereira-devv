@@ -18,6 +18,8 @@
 
 - [**Script de Envio de Mensagens Automáticas**](https://github.com/Tiago-Pereira-devv/script_p_automatizacao)  
   > Automatiza o envio de mensagens via WhatsApp usando Python.
+- [**Desafio: Criando um sistema bancário com Python**](https://github.com/Tiago-Pereira-devv/desafio_sistema_bancario)
+  > Trabalha com funções simples como saque, depósito e extrato de forma a aplicar conceitos aprendidos no curso em Python.
 
 ---
 
